@@ -1,0 +1,8 @@
+1.Go on https://discord.com/developers/applications
+2. Create an application.
+3.Now Go to oAuth2 and select bot and then administrator.
+4.then you will get a link copy it and go to the link and authorize the bot.
+5.then navigate to Bot.{https://prnt.sc/wawmbu}
+6.Click Copy and go to Config.ini and replace the token with this token.
+7. after turning on less secure app on google also replace user & pass with aild google gmail credentials.
+                                YOU ARE NOW GOOD TO GO.
